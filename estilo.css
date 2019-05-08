@@ -1,0 +1,103 @@
+
+.propimg {
+   		width:350px; 
+   		height: 350px; 
+   		padding-left:15px;
+   		padding-top:10px;
+
+   		}
+.barramenu{
+	background-color: #A8A8A8;
+	font-size:30px;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: #181818;
+	height: 30px;
+	float: left;
+	clear: right;
+	width: 200px;
+	border: 1px solid;
+	border-color: red;
+	margin-left: 2%;
+	margin-top: 5px;
+	text-align: center;
+	padding-right: 10px;
+	position: relative;
+		  }
+.texto {
+	text-align: center;
+	font-size: 25px;
+	font-family:Calibri;
+	color: white;
+	font-weight: bold;
+	   }
+	#containerimg {
+	width: 1200;
+	height: 2000;
+	position: relative;
+	margin-left:8%;
+	margin-top:3%;
+		  	   }
+	#divtit1 {
+		width: 1000px;
+		height: 150px;
+		margin-left:13%;
+		margin-top: 5%;
+		border:2px solid;
+		position: relative;
+
+
+		  }
+	#divsubtit1 {
+		width: 1000px;
+		height: 120px;
+		margin-left: 13%;
+		margin-top: inherit;
+		border: 2px solid;
+		  }
+	#divbarrademenu {
+
+ 		height: 42px;
+ 		width:960px;
+ 		border: 2px solid red;
+ 		margin-left: 15%;
+ 		margin-top: 3%;
+ 		position: relative;
+		      }
+
+body {
+	background-image: url("https://blankonblank.org/wp-content/uploads/2017/02/jacques-couteau-blank-on-blank.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: fixed;
+	background-size: all; 
+	}
+h1{
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; 
+	font-size: 80px; 
+	font-style: normal;
+	font-variant: small-caps; 
+	font-weight: 700; 
+	line-height: 53.9px; 
+	color: #000099;
+	position: relative;
+	margin-top: 4%;
+	text-align: center;
+	
+  }
+h2 { font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+	 font-size: 30px;
+  	 font-weight: 700;
+	 color: #383838;
+	 text-align: center;
+	 position: relative;
+	 margin-top: inherit;
+	 margin-left: 1%;
+   }
+   span:hover{
+   	font-size: 32px;
+   	height: 35px;
+	width: 220px;
+	border-color: white;
+	border:2px solid;
+   			 }
