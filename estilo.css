@@ -87,10 +87,10 @@
     margin-top: 20px;
 }
 .propimg {
-    width: 250px;
-    height: 250px;
-    padding-left: 30px;
-    padding-top: 30px;
+    width: 350px;
+    height: 350px;
+    padding-left: 15px;
+    padding-top: 15px;
     position: relative;
     border-image:
 }
@@ -129,7 +129,7 @@ body {
     background-repeat: repeat-y;
     background-position: top;
     background-size: 100%;
-    background-attachment:fixed;
+    background-attachment;
 }
 h1 {
     display: inline-block;
