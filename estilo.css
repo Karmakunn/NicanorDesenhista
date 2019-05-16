@@ -128,8 +128,8 @@ body {
     background-color: lightblue;
     background-repeat: repeat-y;
     background-position: top;
-    background-size: 125%;
-    background-attachment: ;
+    background-size: 100%;
+    background-attachment:fixed;
 }
 h1 {
     display: inline-block;
