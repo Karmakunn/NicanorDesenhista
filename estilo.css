@@ -193,5 +193,22 @@ span div:hover {
     margin-top: 1px;
     border-radius: 50px;
 }
+#containerol{
+    margin-left: 10px;
+    height: 230px;
+    width: 400px;
+    display: inline-block;
+    border: 2px solid red;
+    position: relative;
+    }
+ol {
+    margin-left: 15%;
+    font-family:'Josefin Sans', sans-serif;
+    font-size:40px;
+    color: #4c4c4c;
+    position: relative;
+    padding-top: 15px;
+    text-align: center;
+    position: relative;
 #galeria1 {}
 #containersobre {}
