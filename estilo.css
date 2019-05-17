@@ -1,214 +1,228 @@
 #divbarrademenu {
-    height: 60px;
-    width: 100%;
-    border: 1px  red;
-    background: #f2f2f2;
-    text-align: center;
-    z-index: 5;
-    position: fixed;
-    top: 0;
+	height: 60px;
+	width: 100%;
+	border: 1px red;
+	background: #f2f2f2;
+	text-align: center;
+	z-index: 5;
+	position: fixed;
+	top: 0;
 }
 
 .barramenuslots {
-    background-color: grey;
-    height: 40px;
-    width: 200px;
-    border: 1px;
-    border-radius: 50px;
-    border-color: red;
-    text-align: center;
-    padding-right: 15px;
-    display: inline-block;
-    position: relative;
-    margin-top: 10px;
+	background-color: grey;
+	height: 40px;
+	width: 200px;
+	border: 1px;
+	border-radius: 50px;
+	border-color: red;
+	text-align: center;
+	padding-right: 20px;
+	display: inline-block;
+	position: relative;
+	margin-top: 10px;
 }
 
 .barramenutxt {
-    font-size: 35px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: white;
-    text-align: center;
-    margin-top: 5px;
+	font-size: 35px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 5px;
 }
 
 #containerh1 {
-    margin-top: 50px;
-    width: 100%;
-    height: 150px;
-    border: 2px  red;
-    position: relative;
-    text-align: center;
+	margin-top: 50px;
+	width: 100%;
+	height: 150px;
+	border: 2px red;
+	position: relative;
+	text-align: center;
 }
 
 #containerh2 {
-    width: 99.5%;
-    height: 200px;
-    border: 2px  red;
-    text-align: center;
-    position: relative;
-    margin-top: 15px;
+	width: 99.5%;
+	height: 200px;
+	border: 2px red;
+	text-align: center;
+	position: relative;
+	margin-top: 15px;
 }
 
 #imghomecontainer {
-    position: relative;
-    height: 700px;
-    width: 100%;
-    border: 2px  red;
-    display: inline-block;
-    text-align: center;
-    margin-top: 20px;
+	position: relative;
+	height: 700px;
+	width: 100%;
+	border: 2px red;
+	display: inline-block;
+	text-align: center;
+	margin-top: 20px;
 }
 
 #imghome {
-    margin: 0 auto;
-    height: 600px;
-    width: 600px;
-    border-radius: 50%;
-    position: relative;
-    margin-top: 30px;
+	margin: 0 auto;
+	height: 600px;
+	width: 600px;
+	border-radius: 50%;
+	position: relative;
+	margin-top: 30px;
 }
 
 
 }
 #contdocontainer {
-    height: 3000px;
-    width: 100%;
-    display: inline-block;
-    border: 2px  red;
-    position: relative;
+	height: 3000px;
+	width: 100%;
+	display: inline-block;
+	border: 2px red;
+	position: relative;
 }
 #containerimg {
-    width: 1100px;
-    height: 2000;
-    border: 2px  red;
-    position: relative;
-    text-align: center;
-    margin: auto;
-    margin-top: 20px;
+	width: 1200px;
+	height: 2000;
+	border: 2px red;
+	position: relative;
+	text-align: center;
+	margin: auto;
+	margin-top: 20px;
 }
 .propimg {
-    width: 350px;
-    height: 350px;
-    padding-left: 15px;
-    padding-top: 15px;
-    position: relative;
-    border-image:
+	width: 350px;
+	height: 350px;
+	padding-left: 15px;
+	padding-top: 15px;
+	position: relative;
+	border-image:
 }
 .containermenuonepage {
-    margin-top: 100px;
-    width: 100%;
-    height: 150px;
-    border: 2px  red;
-    position: relative;
-    text-align: center;
+	margin-top: 200px;
+	width: 100%;
+	height: 150px;
+	border: 2px red;
+	position: relative;
+	text-align: center;
 }
 #barramenuselected {
-    font-size: 32px;
-    height: 35px;
-    width: 220px;
-    border-color: white;
-    border: 2px;
-    background-color: darkgrey;
-    font-weight: bold;
-    color: white;
-    float: left;
-    clear: right;
-    border-radius: 50px;
-    margin-left: 2%;
-    margin-top: 5px;
-    text-align: center;
-    padding-right: 10px;
-    position: relative;
-    padding-bottom: 2px;
+	font-size: 32px;
+	height: 35px;
+	width: 220px;
+	border-color: white;
+	border: 2px;
+	background-color: darkgrey;
+	font-weight: bold;
+	color: white;
+	float: left;
+	clear: right;
+	border-radius: 50px;
+	margin-left: 2%;
+	margin-top: 5px;
+	text-align: center;
+	padding-right: 10px;
+	position: relative;
+	padding-bottom: 2px;
 }
 body {
-    margin: 0 !important;
-    overflow-x: hidden;
-    background-image: url("https://image.freepik.com/free-photo/white-tiles-textures_1203-2289.jpg");
-    background-color: lightblue;
-    background-repeat: repeat-y;
-    background-position: top;
-    background-size: 100%;
-    background-attachment;
+	margin: 0 !important;
+	overflow-x: hidden;
+	background-image: url("https://image.freepik.com/free-photo/white-tiles-textures_1203-2289.jpg");
+	background-color: lightblue;
+	background-repeat: repeat-y;
+	background-position: top;
+	background-size: 100%;
+	background-attachment;
 }
 h1 {
-    display: inline-block;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 100px;
-    color: #4c4c4c;
-    word-break: break-all;
-    display: inline-block;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 100px;
+	color: #4c4c4c;
+	word-break: break-all;
+	display: inline-block;
 }
 h2 {
-    display: inline-block;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 40px;
-    color: #4c4c4c;
-    position: relative;
-    display: inline-block;
+	display: inline-block;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 40px;
+	color: #4c4c4c;
+	position: relative;
+	display: inline-block;
 }
 .txtmenuonepage {
-    display: inline-block;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 80px;
-    font-weight: bold;
-    color: #4c4c4c;
-    position: relative;
-    display: inline-block;
-    margin-top: 75px;
+	display: inline-block;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 80px;
+	font-weight: bold;
+	color: #4c4c4c;
+	position: relative;
+	display: inline-block;
+	margin-top: 75px;
 }
 #imgsobrecontainer {
-    position: relative;
-    height: 700px;
-    width: 100%;
-    border: 2px  red;
-    display: inline-block;
-    text-align: center;
-    margin-top: 20px;
+	position: relative;
+	height: 700px;
+	width: 100%;
+	border: 2px red;
+	display: inline-block;
+	text-align: center;
+	margin-top: 20px;
 }
 #imgsobre {
-    margin: 0 auto;
-    height: 600px;
-    width: 350px;
-    border-radius: 10%;
-    position: relative;
-    margin-top: 30px;
+	margin: 0 auto;
+	height: 600px;
+	width: 350px;
+	border-radius: 10%;
+	position: relative;
+	margin-top: 30px;
 }
 p {
-    font-size: 30px;
+	font-size: 30px;
 }
 span:hover {
-    font-size: 45px;
-    height: 45px;
-    width: 220px;
-    border: 2px solid #3366ff;
-    transition: 1s;
-    margin-top: 1px;
+	font-size: 45px;
+	height: 45px;
+	width: 220px;
+	border: 2px solid #3366ff;
+	transition: 1s;
+	margin-top: 1px;
 }
 span div:hover {
-    font-size: 45px;
-    height: 45px;
-    width: 220px;
-    transition: 1s;
-    margin-top: 1px;
-    border-radius: 50px;
+	font-size: 45px;
+	height: 45px;
+	width: 220px;
+	transition: 1s;
+	margin-top: 1px;
+	border-radius: 50px;
 }
-#containerol{
-    margin-left: 10px;
-    height: 230px;
-    width: 400px;
-    display: inline-block;
-    border: 2px solid red;
-    position: relative;
-    }
+#containerol {
+	height: 230px;
+	width: 1000px;
+	display: inline-block;
+	border: 2px;
+	position: relative;
+}
+#containercontato {
+	width: 100%;
+	height: 500px;
+	position: relative;
+	text-align: center;
+}
 ol {
-    margin-left: 15%;
-    font-family:'Josefin Sans', sans-serif;
-    font-size:40px;
-    color: #4c4c4c;
-    position: relative;
-    padding-top: 15px;
-    text-align: center;
-    position: relative;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 40px;
+	color: #4c4c4c;
+	padding-top: 15px;
+	text-align: center;
+	position: relative;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+	position: relative;
+}
+a:hover {
+	font-size: 42px;
+	transition: 1s;
+	text-shadow: 4px 4px grey;
+}
 #galeria1 {}
 #containersobre {}
+#contato {}
